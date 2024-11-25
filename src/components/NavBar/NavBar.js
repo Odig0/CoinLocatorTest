@@ -183,7 +183,7 @@ export const NavBar = () => {
 
       <div className="btnArea">
         <button id="cryptocurrenciesBtn"
-        onClick={() => window.location.href = "https://localhost:3000/"}
+        onClick={() => window.location.href = "https://localhost:3000"}
         >Cryptocurrencies</button>
         <select
           id="selectTools"
